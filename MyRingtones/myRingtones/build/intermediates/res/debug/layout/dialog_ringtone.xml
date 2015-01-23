@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/btn_phone_ringtone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_green_drawn"
+        android:gravity="center"
+        android:text="Set to phone ringtone"
+        android:textColor="@color/white"
+        android:textSize="13pt" />
+
+    <TextView
+        android:id="@+id/btn_sms_ringtone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_green_drawn"
+        android:gravity="center"
+        android:text="Set to SMS ringtone"
+        android:textColor="@color/white"
+        android:textSize="13pt" />
+
+</LinearLayout><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/src/main/res/layout/dialog_ringtone.xml -->

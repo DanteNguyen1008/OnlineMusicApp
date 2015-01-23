@@ -1,0 +1,13 @@
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/classes/debug
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-016167af5c7f48d2e49c985eea002d9be2da101d.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-4b61d77386fa81a9dd18462368aa87e5dba75660.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-faa6c66870bedb59d74b96c773142f97633f27c1.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-3c078087c6085c9d0465a780e8abb20c284f2069.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/httpmime-4.1.2-f10afecdf712dd6dd9ffa12f1a463a54e0032f95.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-36c5493d0f232758d1e6267025f2619893e71b86.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-3e9579a1ca46a48ecbf1d9133833c72f08eb312d.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a685b20ced242b275bfb90ec4efd44d5675c0a5d.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-673c1f9a2d0e8e17d1b634e42208b2fcc39702fb.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-54ffc74044a46f44d4e3883cb141625b93a3221b.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-269fe28bf42a335b0e31d627f699a12fd4bc2109.jar
+/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-e101828d8f44de27794b6f1ed88b38f1bcadbd0c.jar

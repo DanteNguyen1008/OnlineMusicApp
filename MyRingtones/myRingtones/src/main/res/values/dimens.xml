@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="menu_item_height">58.5dp</dimen>
+    <!-- Action bar -->
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="slidingmenu_shadow_width">4dp</dimen>
+    <dimen name="header_height">39.5dp</dimen>
+    <dimen name="header_title_text_size">20dp</dimen>
+    <!-- main -->
+    <dimen name="main_content_padding">10dp</dimen>
+    <dimen name="text_padding">5dp</dimen>
+
+    <!-- next games screen -->
+    <dimen name="next.game.screen.divine.height.item">0dp</dimen>
+    <dimen name="footer_line_height">1dp</dimen>
+    <dimen name="swip_listview_offset_padding_left">310dp</dimen>
+    <dimen name="swip_listview_offset_padding_left_mytrack">260dp</dimen>
+    <dimen name="avatar_radian">120dp</dimen>
+    <dimen name="loading_process_bar_width_height">50dp</dimen>
+    
+	<dimen name="track_list_item_height">78dp</dimen>
+	
+	<dimen name="drawer_menu_width">300dp</dimen>
+</resources>

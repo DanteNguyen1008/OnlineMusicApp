@@ -1,0 +1,113 @@
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_menu_bg_color" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="39.5dp"
+            android:background="@color/black"
+            android:gravity="center"
+            android:text="Menu"
+            android:textSize="15sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+
+        <com.bigcatfamily.myringtones.widget.MenuItem
+            android:id="@+id/mnu_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:menu_background="@drawable/menu_dark"
+            app:menu_background_selector="@drawable/menu_dark_hover"
+            app:menu_icon="@null"
+            app:menu_text="@string/menu_search" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+        
+        <com.bigcatfamily.myringtones.widget.MenuItem
+            android:id="@+id/mnu_itune_top_hits"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:menu_background="@drawable/menu_dark"
+            app:menu_background_selector="@drawable/menu_dark_hover"
+            app:menu_icon="@null"
+            app:menu_text="@string/menu_top_hits" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+        
+
+        <com.bigcatfamily.myringtones.widget.MenuItem
+            android:id="@+id/mnu_streamable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:menu_background="@drawable/menu_dark"
+            app:menu_background_selector="@drawable/menu_dark_hover"
+            app:menu_icon="@null"
+            app:menu_text="@string/menu_streamable" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+
+        <com.bigcatfamily.myringtones.widget.MenuItem
+            android:id="@+id/mnu_downloadable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:menu_background="@drawable/menu_dark"
+            app:menu_background_selector="@drawable/menu_dark_hover"
+            app:menu_icon="@null"
+            app:menu_text="@string/menu_downloadable" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+
+        <com.bigcatfamily.myringtones.widget.MenuItem
+            android:id="@+id/mnu_my_tracks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:menu_background="@drawable/menu_dark"
+            app:menu_background_selector="@drawable/menu_dark_hover"
+            app:menu_icon="@null"
+            app:menu_text="@string/menu_my_track" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="@color/dark_gray_menu_border" />
+    </LinearLayout>
+
+</ScrollView><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/src/main/res/layout/fragment_slide_menu.xml -->

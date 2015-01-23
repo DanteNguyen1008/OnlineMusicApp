@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize" />
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar" >
+
+        <FrameLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white" >
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/left_drawer"
+            android:layout_width="@dimen/drawer_menu_width"
+            android:layout_height="match_parent"
+            android:layout_gravity="start" >
+
+            <FrameLayout
+                android:id="@+id/menu_frame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+    </android.support.v4.widget.DrawerLayout>
+
+</RelativeLayout><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/src/main/res/layout/activity_main.xml -->

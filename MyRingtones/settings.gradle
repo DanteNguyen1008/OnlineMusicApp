@@ -1,0 +1,5 @@
+include ':bCFAndroidDownloadManager'
+include ':bCFMp3PlayerUI'
+include ':bCFNetworkHandler'
+include ':bCFSQLite'
+include ':myRingtones'

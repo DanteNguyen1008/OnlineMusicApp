@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.bigcatfamily.myringtones"
+    android:id="@+id/ActionBarWrapper"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/header_height"
+    android:background="@color/cyan_text_color"
+    android:gravity="center_horizontal"
+    android:paddingLeft="@dimen/main_content_padding"
+    android:paddingRight="@dimen/main_content_padding" >
+
+    <!-- <RelativeLayout -->
+    <!-- android:id="@+id/slide_left_menu_button_wrapper" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_alignParentLeft="true" -->
+    <!-- android:layout_centerVertical="true" > -->
+
+    <com.bigcatfamily.myringtones.widget.SAutoBgImageButton
+        android:id="@+id/header_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/menuicon"
+        android:contentDescription="@null" />
+
+    <!-- <com.example.soccerprediction.widget.BadgeView -->
+    <!-- android:id="@+id/header_counter" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_alignRight="@+id/header_home" -->
+    <!-- android:layout_marginRight="-16dp" -->
+    <!-- android:visibility="gone" /> -->
+    <!-- </RelativeLayout> -->
+
+    <TextView
+        android:id="@+id/header_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:singleLine="true"
+        android:text="${title}"
+        android:textColor="@color/white"
+        android:textSize="@dimen/header_title_text_size"
+        android:textStyle="bold" />
+
+    <!-- <Button -->
+    <!-- android:id="@+id/header_close" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_alignParentRight="true" -->
+    <!-- android:layout_centerVertical="true" -->
+    <!-- android:background="@drawable/header_icon_menu" -->
+    <!-- android:contentDescription="@null" -->
+    <!-- android:visibility="invisible" /> -->
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyRingtones.iml" filepath="$PROJECT_DIR$/MyRingtones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bCFAndroidDownloadManager/bCFAndroidDownloadManager.iml" filepath="$PROJECT_DIR$/bCFAndroidDownloadManager/bCFAndroidDownloadManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bCFMp3PlayerUI/bCFMp3PlayerUI.iml" filepath="$PROJECT_DIR$/bCFMp3PlayerUI/bCFMp3PlayerUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bCFNetworkHandler/bCFNetworkHandler.iml" filepath="$PROJECT_DIR$/bCFNetworkHandler/bCFNetworkHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bCFSQLite/bCFSQLite.iml" filepath="$PROJECT_DIR$/bCFSQLite/bCFSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myRingtones/myRingtones.iml" filepath="$PROJECT_DIR$/myRingtones/myRingtones.iml" />
+    </modules>
+  </component>
+</project>
+

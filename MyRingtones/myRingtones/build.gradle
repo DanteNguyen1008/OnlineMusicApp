@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.bigcatfamily.myringtones"
+        minSdkVersion 11
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':bCFMp3PlayerUI')
+    compile project(':bCFAndroidDownloadManager')
+    compile project(':bCFSQLite')
+    compile project(':bCFNetworkHandler')
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:recyclerview-v7:21.0.3'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
+}
