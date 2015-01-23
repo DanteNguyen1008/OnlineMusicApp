@@ -2,4 +2,4 @@
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
     android:src="@drawable/white_transparent_tile"
     android:tileMode="repeat" />
-<!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/drawable/white_trans_repeat_bg.xml --><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/drawable/white_trans_repeat_bg.xml -->
+<!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/drawable/white_trans_repeat_bg.xml --><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/drawable/white_trans_repeat_bg.xml -->

@@ -3,4 +3,4 @@
             android:duration="@android:integer/config_mediumAnimTime"/>
 	<alpha android:fromAlpha="1.0" android:toAlpha="0.0"
             android:duration="@android:integer/config_mediumAnimTime" />
-</set><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/src/main/res/anim/slide_out_right.xml -->
+</set><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/src/main/res/anim/slide_out_right.xml -->

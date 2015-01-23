@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/values/colors.xml -->
+    <!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="seekbar_bg">#141414</color>
     <color name="seekbar_progress">#a53130</color>
     <color name="seekbar_sec_progress">#875e5e</color>
-    <!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/values/strings.xml -->
+    <!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Android mp3 player</string>
     <string name="testsong_20_sec">http://users.skynet.be/fa046054/home/P22/track06.mp3</string>
-    <!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/values/styles.xml -->
+    <!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

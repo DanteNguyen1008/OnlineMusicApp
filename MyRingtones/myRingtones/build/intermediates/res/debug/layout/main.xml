@@ -39,4 +39,4 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/ButtonTestPlayPause" />
 
-</RelativeLayout><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/layout/main.xml --><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/layout/main.xml -->
+</RelativeLayout><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/layout/main.xml --><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/layout/main.xml -->

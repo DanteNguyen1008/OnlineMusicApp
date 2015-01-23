@@ -5,4 +5,4 @@
 		android:drawable="@drawable/menu_light" /> <!-- focused -->
 	<item 
 		android:drawable="@drawable/bg_menuitem_repeat" /> <!-- default -->
- </selector><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/src/main/res/drawable/menuitem_light_selector.xml -->
+ </selector><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/src/main/res/drawable/menuitem_light_selector.xml -->

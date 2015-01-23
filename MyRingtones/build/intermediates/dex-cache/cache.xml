@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c477a291e116fa8af4623976a9e5f11cbf68592">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-cf67d6a2c6ceb03295eaf310287d7010fa4d2ce0.jar" />
+    </item>
+    <item
         jar="/Users/annguyenquocduy/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -14,6 +21,20 @@
         revision="21.1.2"
         sha1="38ae403d761568497bc87fbc8f860d8b9de1f120">
         <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-3c078087c6085c9d0465a780e8abb20c284f2069.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFNetworkHandler/unspecified/libs/httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/httpmime-4.1.2-1a69845f1042120e66846140c772615aa5508409.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-ac9be36a84ef6211aa61102128dfa67426e1834c.jar" />
     </item>
     <item
         jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFSQLite/unspecified/classes.jar"
@@ -30,32 +51,25 @@
         <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-673c1f9a2d0e8e17d1b634e42208b2fcc39702fb.jar" />
     </item>
     <item
-        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="e96e315d8dcd59972a6ac41a776a7ff7fe1f438f">
-        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-faa6c66870bedb59d74b96c773142f97633f27c1.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-54ffc74044a46f44d4e3883cb141625b93a3221b.jar" />
-    </item>
-    <item
-        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFNetworkHandler/unspecified/libs/httpmime-4.1.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
-        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/httpmime-4.1.2-f10afecdf712dd6dd9ffa12f1a463a54e0032f95.jar" />
-    </item>
-    <item
         jar="/Applications/AndroidADT/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-016167af5c7f48d2e49c985eea002d9be2da101d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-3f074f0bbca3af4b422622e8b6d67f001243c851.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e96e315d8dcd59972a6ac41a776a7ff7fe1f438f">
+        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-faa6c66870bedb59d74b96c773142f97633f27c1.jar" />
     </item>
     <item
         jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFNetworkHandler/unspecified/classes.jar"
@@ -65,11 +79,67 @@
         <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-36c5493d0f232758d1e6267025f2619893e71b86.jar" />
     </item>
     <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFNetworkHandler/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4621dff2973f9319fac7fc6df30fbac47d0e0c53">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-a4f704c897365fc9e80996cf61ea3daf162c975f.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFAndroidDownloadManager/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59fb0832eb25e8d26e997c5b26145dcc9ea7e6eb">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-2e0ac78558399cc5e322d2c30efb39d8079f1fe0.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-5b00496a8395e33802f6b57b1996e0e1e677bd11.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-54ffc74044a46f44d4e3883cb141625b93a3221b.jar" />
+    </item>
+    <item
         jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
         <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a685b20ced242b275bfb90ec4efd44d5675c0a5d.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFSQLite/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="942c696976a35f9a6ca85013d07d8c56b361b8e8">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-adb9b9fd2582ab620286b541807a442faec3c1a0.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFNetworkHandler/unspecified/libs/httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/httpmime-4.1.2-f10afecdf712dd6dd9ffa12f1a463a54e0032f95.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d829d34fde567358833562d9ba28ebd0d9a1c297.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/pre-dexed/debug/classes-46e15b74112fe53e89a117b67e8558ac2269970f.jar" />
     </item>
     <item
         jar="/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"

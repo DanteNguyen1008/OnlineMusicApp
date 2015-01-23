@@ -10,4 +10,4 @@
         android:layout_centerInParent="true" >
     </com.bigcatfamily.mp3player.BCFMediaPlayer>
 
-</RelativeLayout><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/bCFMp3PlayerUI/src/main/res/layout/test_bcf_mp3_player.xml --><!-- From: file:/Volumes/Data/WorkingPlaceAT/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/layout/test_bcf_mp3_player.xml -->
+</RelativeLayout><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/bCFMp3PlayerUI/src/main/res/layout/test_bcf_mp3_player.xml --><!-- From: file:/Volumes/Data/gitsample/OnlineMusicApp/MyRingtones/myRingtones/build/intermediates/exploded-aar/MyRingtones/bCFMp3PlayerUI/unspecified/res/layout/test_bcf_mp3_player.xml -->
